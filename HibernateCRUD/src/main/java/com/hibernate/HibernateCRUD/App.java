@@ -1,4 +1,4 @@
-package com.hibernate.EmpMVC;
+package com.hibernate.HibernateCRUD;
 
 
 

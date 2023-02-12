@@ -1,4 +1,4 @@
-package com.hibernate.EmpMVC;
+package com.hibernate.HibernateCRUD;
 
 import javax.persistence.Column;
 import javax.persistence.Embedded;
